@@ -1,2 +1,2 @@
 # XtreamPlayerFree
-An Android Auto Media Platform
+An Android Auto Media Platform written from the ground up
